@@ -138,7 +138,7 @@ You can't test an SMSC on a live operator network. So the **MSC/HLR simulator** 
 - **Per-message CDRs** and per-second TPS monitoring, plus SNMP traps for operations
 - A **simulator** that made load and protocol testing repeatable without touching the live network
 
-More detail: [docs/engineering-decisions.md](docs/engineering-decisions.md)
+More detail: [docs/engineering-decisions.md](docs/engineering-decisions.md) · Related: [carrier billing & renewal case study](https://github.com/shubhajit93/telecom-charging-gateway-case-study), the charging gateway the SMS gateway calls for each message.
 
 ---
 
